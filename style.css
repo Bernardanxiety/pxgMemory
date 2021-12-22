@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    display: grid;
+    place-items: center;
+    font-size: 2rem;
+}
+
+.container {
+    width: 900px;
+    height: 600px;
+}
+
+.container textarea {
+    outline: 2px solid black;
+    width: 100%;
+    font-size: 1.3rem;
+}
+
